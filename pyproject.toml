@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "PokemonStats"
+description = "Scrap pokemon stats"
+authors = ["Deborah Silva"]
+version = "0.0.1"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.25.1"
+bs4 = "^0.0.1"
+SQLAlchemy = "^1.4.19"
+pandas = "^1.2.5"
+schedule = "^1.1.0"
+psycopg2-binary = "^2.9.1"
+lxml = "^4.8.0"
+
+
+
+
